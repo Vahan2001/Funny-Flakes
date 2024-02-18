@@ -1,0 +1,486 @@
+@media screen and (max-width: 1285px) {
+    .container {
+        width: 1100px;
+    }
+    .nav-title > h1 {
+        font-size: 125px;
+    }
+    .menu-title > p {
+        padding: 30px 45px 75px;
+    }
+    .input-block1, .input-block2 {
+        width: 50%;
+    }
+    .input-block1 > ul > li > label, .input-block2 > ul > li > label {
+        width: 200px;
+    }
+    .input-block3 > label {
+        width: 178px;
+    }
+    .nav-menu > ul > li > a {
+        margin: 0 30px;
+    }
+    .s3b3-text > h6 {
+        font-size: 20px;
+    }
+    .s3b3-text > p {
+        font-size: 18px;
+    }
+    .s3b3-title > h5 {
+        font-size: 58px;
+    }
+}
+@media screen and (max-width: 1120px) {
+    .container {
+        width: 900px;
+    }
+    .nav-menu {
+        width: 70%;
+    }
+    .nav-shop {
+        width: 10%;
+    }
+    .nav-title > h1 {
+        font-size: 90px;
+    }
+    .menu-title > p {
+        padding: 30px 10px 45px;
+    }
+    .section1-menu-block {
+        padding: 85px 50px 65px;
+    }
+    .input-block3 > label {
+        width: 160px;
+        font-size: 17px;
+    }
+    .input-block3 > span {
+        font-size: 17px;
+    }
+    .button > button {
+        font-size: 18px;
+        padding: 14.5px 45px;
+        margin: 40px 0 0;
+    }
+    .section2-title > p {
+        padding: 0 170px;
+    }
+    .section2-block > p {
+        font-size: 15px;
+        letter-spacing: 0px;
+        line-height: 5px;
+    }
+    .section2-block > a {
+        padding: 11.5px 11px;
+    }
+    .section3-block2 {
+        padding: 90px 15px 5px 45px;
+    }
+    .section3-block2 > h4 {
+        padding-bottom: 20px;
+    }
+    .section3-block2 > p {
+        font-size: 17px;
+    }
+    .section3-block3 {
+        padding: 60px 30px 90px 30px;
+    }
+    .s3b3-text {
+        width: 60%;
+    }
+    .section3-block4 {
+        padding: 90px 0;
+    }
+    .ff-block6 input {
+        width: 250px;
+        margin-right: 20px;
+    }
+    .footer-flex p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .footer-flex h6 {
+        padding: 50px 0 10px;
+    }
+    .ff-block5, .ff-block7 {
+        padding-top: 40px;
+    }
+    .ff-block6 {
+    padding-top: 40px;
+    }
+    .footer-flex {
+        padding-bottom: 35px;
+    }
+}
+@media screen and (max-width: 950px) {
+    .container {
+        width: 700px;
+    }
+    .nav-title > h1 {
+        line-height: 50px;
+        padding: 0px 60px;
+        font-size: 50px;
+    }
+    .nav-title > p {
+        font-size: 54px;
+        line-height: 10px;
+        padding: 50px 0 200px;
+    }
+    .nav-flex {
+        padding: 30px 0 15px;
+    }
+    .nav-menu > ul > li > a {
+        font-size: 16px;
+        margin: 0 15px;
+    }
+    header {
+        background-position: 50% 245px;
+        background-size: 50%;
+    }
+    .section1 {
+        background-position: 50% -182px, 45% -145%;
+        background-size: 50%, 100%;
+        padding: 200px 0 0 0;
+        margin-bottom: 30px;
+    }
+    .section1-menu-block {
+        padding: 85px 15px 35px;
+    }
+    .menu-title > h2 {
+        font-size: 60px;
+        line-height: 10px;
+    }
+    .menu-title > p {
+        padding: 30px 10px 25px;
+    }
+    .menu-subtitle {
+        padding: 20px 0;
+        margin-bottom: 40px;
+    }
+    .menu-input-flex {
+        flex-wrap: wrap;
+    }
+    .input-block1, .input-block2 {
+        width: 100%;
+        text-align: center;
+    }
+    .input-block1 > h5, .input-block2 > h5 {
+        padding-bottom: 15px;
+        padding-top: 10px;
+    }
+    .input-block3 {
+        margin: 5px 0 0 0;
+    }
+    .input-block3 > p {
+        padding: 15px 0 0;
+    }
+    .input-block3 > label {
+        width: 165px;
+        padding: 15px 0 15px;
+    }
+    .input-block3 > span {
+        font-size: 16px;
+        display: block;
+        padding-top: 27px;
+    }
+    .button > button {
+        font-size: 16px;
+        padding: 9.5px 22px;
+        margin: 15px 0 0;
+    }
+    .section2-title > h2 {
+        font-size: 67px;
+        line-height: 20px;
+        padding: 60px 0 30px;
+    }
+    .section2-title > p {
+        padding: 0 70px;
+    }
+    .section2-flex {
+        justify-content: space-around;
+        padding: 50px 0 10px;
+        flex-wrap: wrap;
+    }
+    .section2-block {
+        width: 45%;
+        margin-bottom: 20px;
+    }
+    .section3-block2 > h4 {
+        font-size: 45px;
+        line-height: 0px;
+    }
+    .section3-block2 > p {
+        font-size: 16px;
+        padding: 2px 0;
+    }
+    .s3b3-title > h5 {
+        font-size: 40px;
+        line-height: 0;
+        text-align: center;
+    }
+    .s3b3-text {
+        width: 100%;
+        text-align: center;
+    }
+    .s3b3-flex {
+        justify-content: space-around;
+    }
+    .section3-block3 {
+        padding: 60px 30px 5px 30px;
+    }
+    .ff-block1, .ff-block2, .ff-block3, .ff-block4 {
+        width: 45%;
+    }
+    .footer-flex {
+        justify-content: space-evenly;
+    }
+    .footer-flex h6 {
+        padding: 20px 0 10px;
+    }
+    .ff-block6 {
+        width: 70%;
+    }
+    .ff-block7 > a {
+        margin: 16px 9px 0 0;
+    }
+    .ff-block7 > h5 {
+        line-height: 5px;
+    }
+    .ff-block5, .ff-block7 {
+        padding-top: 10px;
+    }
+    .footer-end > p {
+        padding: 12px 0;
+    }
+}
+@media screen and (max-width: 730px) {
+    .container {
+        width: 550px;
+    }
+    .menu-block-item > a, .mobile-menu-block-item > a {
+        text-decoration: none;
+    }
+    .mobile-menu-block {
+        width: 0px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        background-color: #c39287;
+        transition: width 0.7s;
+        overflow: hidden;
+    }
+    .text-right {
+        text-align: right;
+    }
+    .mobile-menu-block label {
+        color: white;
+        cursor: pointer;
+        transition-duration: 0.5s;
+    }
+    .mobile-menu-block label:hover {
+        color:#000;
+    }
+    .mobile-menu-block-item {
+        color: white;
+        list-style: none;
+    }
+    #toggle-menu:checked + .mobile-menu-block {
+        width: 230px;
+        padding: 16px;
+    }
+    .nav-logo {
+        width: 30%;
+    }
+    .nav-menu {
+        display: none;
+    }
+    .mobile-menu {
+        display: block;
+        width: 50%;
+    }
+    .mobile-menu-block-item > a {
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 17px;
+        letter-spacing: 3px;
+        color: #1d4c8b;
+        font-weight: 500;
+        font-family: "Poppins";
+        margin: 0 40px;
+        transition-duration: 0.5s;
+    }
+    .mobile-menu-block-item > a:hover {
+        color: #000000;
+    }
+    .toggle {
+        text-transform: uppercase;
+        font-size: 17px;
+        letter-spacing: 3px;
+        color: #1d4c8b;
+        font-weight: 500;
+        font-family: "Poppins";
+        transition-duration: 0.5s;
+    }
+    .toggle:hover {
+        color: #000;
+    }
+    .nav-title > p {
+        font-size: 45px;
+        line-height: 10px;
+        padding: 20px 0 182px;
+    }
+    .menu-title > p {
+        font-size: 17px;
+    }
+    .menu-title > h2 {
+        font-size: 40px;
+        line-height: 3px;
+    }
+    .section1-menu-block {
+        padding: 35px 15px 35px;
+    }
+    .input-block3 > p {
+        font-size: 16px;
+        letter-spacing: 2px;
+    }
+    .section2-title > h2 {
+        font-size: 45px;
+        line-height: 1px;
+        padding: 40px 0 22px;
+    }
+    .section2-title > p {
+        font-size: 17px;
+    }
+    .section2-flex {
+        padding: 30px 0 10px;
+    }
+    .section2-block {
+        padding: 10px;
+    }
+    .section2-block > a {
+        padding: 6.5px 5px;
+    }
+    .section3-block1, .section3-block2, .section3-block3, .section3-block4 {
+        width: 100%;
+    }
+    .section3-block2 > h4 {
+        text-align: center;
+    }
+    .section3-block2 {
+        padding: 40px 20px 10px 20px;
+    }
+    .ff-block5 {
+        display: none;
+    }
+    .ff-block6 input {
+        width: 200px;
+        margin-right: 8px;
+    }
+    .ff-block6 button {
+        padding: 4.5px 16.5px;
+    }
+    .ff-block6 {
+        width: 60%;
+    }
+    .ff-block5, .ff-block7 {
+        width: 35%;
+        padding-top: 40px;
+    }
+}
+@media screen and (max-width: 580px) {
+    .container {
+        width: 92%;
+    }
+    .nav-logo {
+        width: 45%;
+    }
+    .mobile-menu {
+        width: 30%;
+    }
+    .nav-shop {
+        width: 20%;
+    }
+    header {
+        background-position: 50% 174px;
+        background-size: 30%;
+    }
+    .nav-title > h1 {
+        line-height: 13px;
+        padding: 5px 30px;
+        font-size: 22px;
+    }
+    .nav-title > p {
+        font-size: 23px;
+        line-height: 10px;
+        padding: 20px 0 115px;
+    }
+    .section1 {
+        padding: 25px 0 0 0;
+    }
+    .section1-menu-block {
+        padding: 30px 8px 10px;
+    }
+    .menu-title > p {
+        font-size: 14px;
+    }
+    .menu-title > h2 {
+        font-size: 24px;
+    }
+    .menu-subtitle > h4 {
+        font-size: 17px;
+        letter-spacing: 2px;
+        line-height: 0px;
+    }
+    .menu-subtitle {
+        padding: 15px 0;
+        margin-bottom: 15px;
+    }
+    .input-block1 > ul > li > label, .input-block2 > ul > li > label {
+        width: 145px;
+        font-size: 15px;
+        letter-spacing: 0px;
+        line-height: 0px;
+    }
+    
+    .input-block1 > ul > li > span, .input-block2 > ul > li > span {
+        font-size: 12px;
+        letter-spacing: 0px;
+        line-height: 0px;
+    }
+    .input-block3 > p {
+        font-size: 14px;
+        letter-spacing: 0px;
+        padding: 5px 0 0 0;
+    }
+    .input-block3 > label {
+        width: 145px;
+        padding: 4px 0 8px;
+        font-size: 15px;
+    }
+    .input-block3 > span {
+        font-size: 14px;
+        padding-top: 8px;
+    }
+    .button > button {
+        font-size: 14px;
+        padding: 2.5px 10px;
+        margin: 8px 0 0;
+    }
+    .section2-title > p {
+        padding: 0 15px;
+    }
+    .section2-block {
+        padding: 20px;
+        width: 100%;
+    }
+    .ff-block1, .ff-block2, .ff-block3, .ff-block4 {
+        width: 100%;
+        text-align: center;
+    }
+    .ff-block6 {
+        width: 100%;
+    }
+    .section1 {
+        background-position: 50% -182px, 45% -60%;
+    }
+}
